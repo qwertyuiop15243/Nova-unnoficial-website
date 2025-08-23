@@ -1,0 +1,29 @@
+html{
+    background-color: rgb(25, 7, 22);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(138, 107, 107);
+}
+.image{
+    margin-left: 13%;
+}
+.text{
+    text-align: center;
+    color: rgb(75, 71, 172);
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+button{
+    margin-left: 43%;
+    color:darkgrey;
+    background-color: black;
+}
+iframe{
+    width: 75%;
+    height: 800px;
+    margin-left: 25%;
+ 
+}
